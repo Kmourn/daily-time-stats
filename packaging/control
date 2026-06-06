@@ -1,0 +1,9 @@
+Package: daily-time-stats
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: daily-time-stats <daily-time-stats@example.local>
+Description: Ubuntu desktop daily time statistics app
+ 日记是一款本地运行的每日时间统计桌面程序，支持今日录入、周统计、月统计、SQLite 存储和备份恢复。
+

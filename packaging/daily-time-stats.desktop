@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=日记
+Comment=每日时间统计
+Exec=daily-time-stats
+Icon=daily-time-stats
+Terminal=false
+Categories=Office;Utility;
+
