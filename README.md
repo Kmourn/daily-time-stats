@@ -28,3 +28,7 @@ scripts/build_deb.sh
 ```
 
 构建产物会输出到 `dist/deb/`。
+
+## License
+
+GPL-3.0. This project uses PySide6 and Qt Charts; see `THIRD_PARTY_NOTICES.md`.
